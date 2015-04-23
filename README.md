@@ -26,7 +26,7 @@ To send a SOAP Request:
 
 ## Examples
 
-This was build to work with Exchange Web Services so here are some examples
+This was built to work with Exchange Web Services so here are some examples
 
 ### EWS Calendar GetUserAvailability
 
