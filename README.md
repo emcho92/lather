@@ -172,7 +172,7 @@ var removeCalendarEvent = {
   },
 };
 
-lather.send({
+lather.up({
   body : removeCalendarEvent,
   headers : {
     Authorization : lather.basicAuth(exchangeUsername, exchangePassword),
