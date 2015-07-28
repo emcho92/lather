@@ -1,6 +1,6 @@
 {
   "name": "lather",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A terrible library to convert a JS object to XML and wrap it in a SOAP envelope",
   "author": "Jason Walsh <jason.walsh@colonyamerican.com>",
   "dependencies": {
@@ -16,10 +16,13 @@
     "lib": "./lib"
   },
   "keywords": [
-    "soap", "xml"
+    "soap",
+    "xml"
   ],
-  "licenses": [{
+  "licenses": [
+    {
       "type": "MIT License",
       "url": "http://www.opensource.org/licenses/mit-license.php"
-  }]
+    }
+  ]
 }
